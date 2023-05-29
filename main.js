@@ -5,7 +5,7 @@ if ('serviceWorker' in navigator) {
 }
 
 let greetings = ['Hello', 'Hi', 'Hey', 'Hola', 'Bonjour'];
-let names = ['Emily', 'Sophia', 'Emma', 'Olivia', 'Ava'];
+let names = ['Emily', 'Sophia', 'Emma', 'Olivia', 'Ava', 'Clara', 'Peyton', 'Carly', 'Cecelia', 'Ashlee', 'Delaney', 'Harley', 'Gianna', 'Kristen', 'Annalise', 'Desiree', 'Mara'];
 
 document.getElementById('generate').addEventListener('click', () => {
   let randomGreeting = greetings[Math.floor(Math.random() * greetings.length)];
