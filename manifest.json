@@ -1,6 +1,6 @@
 {
-    "short_name": "Date & Time",
-    "name": "Current Date and Time PWA",
+    "short_name": "Tic Tac Toe",
+    "name": "Tic Tac Toe PWA",
     "icons": [
         {
             "src": "/icon.png",
