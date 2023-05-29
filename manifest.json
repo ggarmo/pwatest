@@ -1,6 +1,6 @@
 {
-    "short_name": "Tic Tac Toe",
-    "name": "Tic Tac Toe PWA",
+    "short_name": "Greetings Generator",
+    "name": "Random Greetings Generator PWA",
     "icons": [
         {
             "src": "/icon.png",
